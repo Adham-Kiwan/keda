@@ -153,8 +153,8 @@ github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.12 h1:uvX2yaL+aMjkmnrLPPlR/zwjoKF
 github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.12/go.mod h1:dicT+2eNhHHqGkxHO7LoXw3QghIUGuzgdmFqaSTopgI=
 github.com/aws/aws-sdk-go-v2/service/amp v1.55.4 h1:tTaOYc+EuvKQd42wBC97yy+/uGtf+9d+9i0a8OVOhAQ=
 github.com/aws/aws-sdk-go-v2/service/amp v1.55.4/go.mod h1:qaYUN2dXq4ekBRspS50kt7pnMMkBDlZJdXN2n5TV6Jo=
-github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.75.7 h1:dPwVYchzPnOM/jqUTQKd2s3ucjCZvgzZx1yg+byr4vM=
-github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.75.7/go.mod h1:lunO76NgN61cnlgsoB/67nAMsexF0YfXXtF5v4Fnb40=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.76.0 h1:y04O7jqZa6HM0JkoPhSI4gZoYtK2lmXV7sk+2gTvy4w=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.76.0/go.mod h1:lunO76NgN61cnlgsoB/67nAMsexF0YfXXtF5v4Fnb40=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.74.0 h1:DSfi8o1qAb2AQwFwfk4gjOE3R9V+33/V5k/ICYkkSac=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.74.0/go.mod h1:tzOEVcpLdi8aqyYUKQkuOVVAOfOgfLA0xEomIUTHIFY=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.47.0 h1:oOwgaAgzDhepqUDT+lO2QINr38eQdZDSwSB/1vYjAtw=
@@ -168,8 +168,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.12 h1:wzAqMZ2O
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.12/go.mod h1:/0TfyruByHsOlphzP26xDTRe2DKD0J1I1Uyy2TyP8EI=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.56.13 h1:YOv5QzARzhXJ1bkRp3gGERI9CUhW99IoIkyL9U5R/9s=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.56.13/go.mod h1:7iYrUPgn4suB8arnT9Phm7ffOFi93O7xKcF04ixuIFQ=
-github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.50.12 h1:3l6QhbrePQWfPEcNdtDUOeftM4hEoP3BZ8zq+bNb9rU=
-github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.50.12/go.mod h1:pvkKaFkbMw9ehRD+fraRB1pdNyIFMeMOOo5Y4+NWB58=
+github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.51.0 h1:caWOS7HN0IKMRSuxxcScg39MxIg4/DgFQbW6xNjQN1I=
+github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.51.0/go.mod h1:pvkKaFkbMw9ehRD+fraRB1pdNyIFMeMOOo5Y4+NWB58=
 github.com/aws/aws-sdk-go-v2/service/signin v1.13.1 h1:ssrDA6AKfXEc3h0Pf4EI4vQ8sN5Zd136SrU9Tjr0XPc=
 github.com/aws/aws-sdk-go-v2/service/signin v1.13.1/go.mod h1:LdwHjKqPE9VCC7sTlWcOAizZx3ZJYjmfwC/EW2tIIAE=
 github.com/aws/aws-sdk-go-v2/service/sqs v1.53.0 h1:Drz602e9tjlm73zV4ZSFn7HLX/xSGKVjFvg648kXLBo=
